@@ -111,6 +111,14 @@ if( ! function_exists( 'campbad_scripts' ) ) {
 				'jquery', // make sure this only loads if jQuery has loaded
 			)
 		); // Custom Child Theme jQuery  
+
+		wp_enqueue_script(
+			'campbad' . '-custom',
+			get_stylesheet_directory_uri() . '/assets/js/build/production.js',
+			array(
+				'jquery', // make sure this only loads if jQuery has loaded
+			)
+		); // Custom Child Theme jQuery 
 		
 	}
 	
