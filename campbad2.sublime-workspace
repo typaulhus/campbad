@@ -1,0 +1,884 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ligh",
+				"lightGray"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"pain",
+				"PainEDUgold"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"search",
+				"searchField"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"showW",
+				"showWhyDOB"
+			],
+			[
+				"show",
+				"showWhyLast4"
+			],
+			[
+				"Sh",
+				"ShoulderR"
+			],
+			[
+				"main",
+				"mainPartsMaleBack"
+			],
+			[
+				"mainPart",
+				"mainPartsMaleBack"
+			],
+			[
+				"mainParts",
+				"mainPartsFemale"
+			],
+			[
+				"select",
+				"selectElement"
+			],
+			[
+				"mrgin",
+				"margin"
+			],
+			[
+				"min",
+				"mainParts"
+			],
+			[
+				"paddn",
+				"padding-top"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"moda",
+				"modalRule"
+			],
+			[
+				"term",
+				"termsOfUse"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"rem",
+				"reminderDuration"
+			],
+			[
+				"reminder",
+				"reminderFrequency"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"soapp",
+				"soappVersions"
+			],
+			[
+				"why",
+				"whyReadOnly"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"P",
+				"PainEDUgold"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"userRoleDefinition"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"cl",
+				"clear	clearfix"
+			],
+			[
+				"bs",
+				"box-shadow"
+			],
+			[
+				"no",
+				"none"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1624,
+				"line_ending": "Windows",
+				"name": "/* campbad styles */"
+			}
+		}
+	],
+	"build_system": "Packages/Sass/SASS/SASS (OSX).sublime-build",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"pr",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"f",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"snippet if",
+				"Snippet: <?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pad",
+				"Project: Add Folder"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: clear: both"
+			],
+			[
+				"norm	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"no",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: html",
+				"Snippet: font-weight: normal"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tpaulhus/Downloads/layers-child/layers-child/style.css",
+		"/C/Users/tpaulhus/Downloads/layers-child/layers-child/functions.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/page.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/404.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/single.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/index.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/search.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/archive.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/header.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/main.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/archive-jetpack-portfolio.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/functions.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/artwork.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-projects.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/single-jetpack-portfolio.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-artwork.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/header.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-page.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sidebar-projects.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-portfolio.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/projects.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/single-projects.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-artwork-old.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_global.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_projects.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-orig-kinda.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/archive-artwork.php",
+		"/C/Users/tpaulhus/Dropbox/Atrion/Sharepoint/Themes/Gilbane/gilbane-color.xml",
+		"/C/Users/tpaulhus/Desktop/SPColorValidator/SPColorValues.xml",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/footer.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_navigation.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_responsive.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/js/main.js",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/js/navigation.js",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/projects-custom-post-type.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/inc/cpt_project.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/layouts/content-sidebar.css",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/js/build/production.js",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/css/build/main.css",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_config.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_about.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/about.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_text.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_store.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/favicon.ico",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/style.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_blog.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sidebar-about.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/style.css",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/woocommerce.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/about-orig.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/about_OLD2.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/.gitignore",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_mixins.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/testing.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/_footer.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/styleeeeeeeeeee.css",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sass/style_ORIG.scss",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-status.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/README.md",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/page_no_posts_sidebar.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/codekit-config.json",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/index.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/sidebar.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/index.html",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-quote.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/woocommerce/content-product.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/loop.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/single.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/single-quote.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/content-single.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/loop-orig.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/single-orig.php",
+		"/C/wamp/www/tywp/wp-content/themes/jasperock/css versioning.html",
+		"/C/wamp/www/tywp/wp-includes/post-formats.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/about-orig.php",
+		"/C/wamp/www/patternlab-atrion/README.md",
+		"/C/wamp/www/patternlab-atrion/core/scripts/generateSite.command",
+		"/C/wamp/www/patternlab-atrion/config/README",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/functions.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/header.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/page_no_sidebar.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/.htaccess",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/loop.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/layouts/content-sidebar.css",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/style.css",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/inc/template-tags.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/index.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/single.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/page.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/index-orig.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/page-orig.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/single-orig.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/about.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/blank.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/css/main.css",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/header_orig2.php",
+		"/C/Users/tpaulhus/Dropbox/5  WEB/wordpress/typaulh_us/wp-content/themes/jasperock/sass/main.scss",
+		"/Applications/MAMP/htdocs/Jasperock/config.rb",
+		"/Applications/MAMP/htdocs/Jasperock/functions.php",
+		"/Applications/MAMP/htdocs/Jasperock/style.css",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/sass/main.scss",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/page.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/ldhd-single.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/css/normalize.css",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/loop_orig.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/loop_origphp.lens",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/loop.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/index.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/sidebar.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/archive.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/index_original.php",
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/overbrook_s.sublime-project",
+		"/Applications/MAMP/htdocs/PainCAS/sass/main.scss",
+		"/Applications/MAMP/htdocs/PainCAS/kit/partials/headerAssessment.kit",
+		"/Applications/MAMP/htdocs/PainCAS/sass/global.scss",
+		"/Applications/MAMP/htdocs/PainCAS/kit/partials/header.kit",
+		"/Applications/MAMP/htdocs/PainCAS/kit/partials/footer.kit",
+		"/Applications/MAMP/htdocs/PainCAS/js/widgets.js",
+		"/Applications/MAMP/htdocs/PainCAS/js/jquery-ui-1.10.0.custom.min.js",
+		"/Applications/MAMP/htdocs/PainCAS/kit/assessment_QandControlsPage_v2.kit",
+		"/Applications/MAMP/htdocs/PainCAS/kit/your_comments.kit",
+		"/Applications/MAMP/htdocs/PainCAS/kit/add_Clinic_1.kit",
+		"/Applications/MAMP/htdocs/PainCAS/sass/dashStyles.scss",
+		"/Applications/MAMP/htdocs/PainCAS/sass/assessment_styles.scss",
+		"/Applications/MAMP/htdocs/PainCAS/kit/dashboardViewPatientOutstanding.kit",
+		"/Applications/MAMP/htdocs/PainCAS/kit/assignNewAssessment_clinLevel.kit"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\tywp\\wp-content\\themes\\jasperock",
+			"<open files>",
+			"C:\\wamp\\www\\tywp\\wp-content\\themes\\jasperock",
+			"<open files>,C:\\Users\\tpaulhus\\Dropbox\\5  WEB\\wordpress\\typaulh_us\\wp-content\\themes\\jasperock",
+			"<open files>",
+			"-*.css,-*.html,-*.kit",
+			"-*.css,-*.html",
+			"-*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shadow",
+			"@trans",
+			"transition",
+			"after_setup_theme",
+			"portfolio",
+			"<!--<header class=\"entry-header\">",
+			"blaaa2",
+			"Artwork</h1>",
+			"#masthead",
+			"entry-title",
+			"portfolio-entry-title",
+			"Testing to see",
+			".toggled",
+			"console.log",
+			"site-navigation",
+			"navigation",
+			"aboutSB",
+			"#FFDC00",
+			"menu-toggle",
+			"#93865d",
+			"yel_bg",
+			"/images",
+			"wp-content/themes/images",
+			"yel_bg",
+			"jquery",
+			"yel_bg",
+			"yel",
+			"yel_",
+			"yel_bg",
+			"Continue reading",
+			"cache",
+			"css cache",
+			"edit-link",
+			"byline",
+			"entry-meta",
+			"add_theme_support",
+			"register",
+			"You may use these HTML tags and attributes",
+			"form-allowed",
+			"older",
+			"overbrook",
+			"starkers",
+			"one",
+			"mainHead",
+			"checkElement",
+			"checkbox",
+			"actionsCol",
+			"regCheckbox",
+			"modalMe",
+			"welcome",
+			"shadow",
+			"actions",
+			"hide",
+			"gradient",
+			"mainViewRole",
+			"submit",
+			"welcomeMsgAssessment",
+			"1.2em",
+			"height",
+			"input",
+			"button",
+			"userName",
+			"user",
+			"userName",
+			"topLogo",
+			"logo",
+			"header",
+			"welcome",
+			"none",
+			"display: non",
+			"userName",
+			"none",
+			"welcome",
+			"button",
+			"modal",
+			"button",
+			"ssnField",
+			"staticData",
+			"h1",
+			"editBtn",
+			"type=",
+			"innerPa",
+			"innerPage",
+			"type",
+			"button",
+			"css",
+			"type:",
+			"input",
+			"sectH",
+			"h5",
+			"edit",
+			"border-color: red;",
+			"#ArmL",
+			".mainPartsMaleBack #ArmL",
+			"#ShoulderR",
+			".mainPartsMaleBack #ShoulderL",
+			"#ShoulderL",
+			"border-color: red;",
+			"500px",
+			"pageCon",
+			"green",
+			"formSection",
+			"controls",
+			"page",
+			"pageControl",
+			"label",
+			"form",
+			"ul",
+			"font",
+			"radius",
+			"border",
+			"small",
+			"regSteps",
+			".ui-widget",
+			"modalRule",
+			".ui-widget",
+			"font",
+			"body",
+			"select",
+			"version",
+			"formBox",
+			"h5",
+			"#333",
+			"form-box",
+			"painCAS ",
+			"a",
+			"TOU",
+			"small"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jasperock",
+			"overbrook"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 1624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1624,
+								1624
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* campbad styles */",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 323.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 55.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.739331304751,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config",
+				"sass/_config.scss"
+			],
+			[
+				"confi",
+				"sass/_config.scss"
+			],
+			[
+				"nav",
+				"sass/_navigation.scss"
+			],
+			[
+				"glo",
+				"sass/_global.scss"
+			],
+			[
+				"main",
+				"sass/main.scss"
+			],
+			[
+				"f",
+				"functions.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"about",
+				"about.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"mi",
+				"sass/_mixins.scss"
+			],
+			[
+				"tex",
+				"sass/_text.scss"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"sty",
+				"sass/style.scss"
+			],
+			[
+				"ass",
+				"kit/assessment_medPicker.kit"
+			],
+			[
+				"ty",
+				"sass/ty.scss"
+			],
+			[
+				"managepat",
+				"html/managePatientSettings_standardUser_edit.html"
+			],
+			[
+				"dash",
+				"kit/dashboardViewClinic.kit"
+			],
+			[
+				"das",
+				"sass/dashStyles.scss"
+			],
+			[
+				"add",
+				"html/add_Patient_1.html"
+			],
+			[
+				"managepa",
+				"kit/managePatientSettings_standardUser.kit"
+			],
+			[
+				"managea",
+				"kit/manageAccount_ClinicAdmin.kit"
+			],
+			[
+				"managep",
+				"kit/managePatientSettings_clinicAdmin.kit"
+			],
+			[
+				"mana",
+				"kit/manageAccount_ClinicAdmin.kit"
+			],
+			[
+				"st",
+				"sass/style.scss"
+			],
+			[
+				"sc",
+				"sass/style.scss"
+			],
+			[
+				"scss",
+				"sass/style.scss"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"css",
+				"css/style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"",
+				"/Users/tyler/Desktop/index2.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}
