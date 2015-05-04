@@ -184,12 +184,11 @@
 	"buffers":
 	[
 		{
-			"file": "style.css",
+			"file": "functions.php",
 			"settings":
 			{
-				"buffer_size": 1624,
-				"line_ending": "Windows",
-				"name": "/* campbad styles */"
+				"buffer_size": 5167,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -345,6 +344,19 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/campbad/wp-content/themes/layerswp/index.php",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/assets/sass/main.scss",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/partials/header-logo.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp/header.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp/partials/header-page-title.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp/partials/header-centered.php",
+		"/C/wamp/www/campbad/wp-content/themes/layerswp/partials/header-secondary.php",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/partials/header-standard.php",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/style.css",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/.gitignore",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/gruntfile.js",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/package.json",
 		"/C/Users/tpaulhus/Downloads/layers-child/layers-child/style.css",
 		"/C/Users/tpaulhus/Downloads/layers-child/layers-child/functions.php",
 		"/C/wamp/www/campbad/wp-content/themes/layerswp-1-1-2/page.php",
@@ -459,20 +471,7 @@
 		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/archive.php",
 		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/index_original.php",
 		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/overbrook_s.sublime-project",
-		"/Applications/MAMP/htdocs/PainCAS/sass/main.scss",
-		"/Applications/MAMP/htdocs/PainCAS/kit/partials/headerAssessment.kit",
-		"/Applications/MAMP/htdocs/PainCAS/sass/global.scss",
-		"/Applications/MAMP/htdocs/PainCAS/kit/partials/header.kit",
-		"/Applications/MAMP/htdocs/PainCAS/kit/partials/footer.kit",
-		"/Applications/MAMP/htdocs/PainCAS/js/widgets.js",
-		"/Applications/MAMP/htdocs/PainCAS/js/jquery-ui-1.10.0.custom.min.js",
-		"/Applications/MAMP/htdocs/PainCAS/kit/assessment_QandControlsPage_v2.kit",
-		"/Applications/MAMP/htdocs/PainCAS/kit/your_comments.kit",
-		"/Applications/MAMP/htdocs/PainCAS/kit/add_Clinic_1.kit",
-		"/Applications/MAMP/htdocs/PainCAS/sass/dashStyles.scss",
-		"/Applications/MAMP/htdocs/PainCAS/sass/assessment_styles.scss",
-		"/Applications/MAMP/htdocs/PainCAS/kit/dashboardViewPatientOutstanding.kit",
-		"/Applications/MAMP/htdocs/PainCAS/kit/assignNewAssessment_clinLevel.kit"
+		"/Applications/MAMP/htdocs/PainCAS/sass/main.scss"
 	],
 	"find":
 	{
@@ -480,9 +479,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 157.0,
 		"where_history":
 		[
+			"<open files>",
 			"C:\\wamp\\www\\tywp\\wp-content\\themes\\jasperock",
 			"<open files>",
 			"C:\\wamp\\www\\tywp\\wp-content\\themes\\jasperock",
@@ -499,6 +499,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"min-width",
+			"min-width	",
+			"layers_child",
 			"shadow",
 			"@trans",
 			"transition",
@@ -623,10 +626,7 @@
 			"h5",
 			"#333",
 			"form-box",
-			"painCAS ",
-			"a",
-			"TOU",
-			"small"
+			"painCAS "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -634,6 +634,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"campbad",
 			"jasperock",
 			"overbrook"
 		],
@@ -651,27 +652,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "style.css",
+					"file": "functions.php",
 					"settings":
 					{
-						"buffer_size": 1624,
+						"buffer_size": 5167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1624,
-								1624
+								1700,
+								1700
 							]
 						],
 						"settings":
 						{
-							"auto_name": "/* campbad styles */",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 323.0,
+						"translation.y": 1122.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -712,7 +713,7 @@
 		"cols":
 		[
 			0.0,
-			0.739331304751,
+			0.915418261273,
 			1.0
 		],
 		"rows":
