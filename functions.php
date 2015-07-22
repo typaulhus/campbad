@@ -206,3 +206,19 @@ function campbad_customizer_defaults( $defaults ){
 
  return $defaults;
 }
+
+//* Add support for post formats
+add_theme_support( 'post-formats', array(
+	'aside',
+	'audio',
+	'chat',
+	'gallery',
+	'image',
+	'link',
+	'quote',
+	'status',
+	'video'
+) );
+
+//* Add support for post format images
+add_theme_support( 'genesis-post-format-images' );

@@ -187,7 +187,15 @@
 			"file": "functions.php",
 			"settings":
 			{
-				"buffer_size": 5167,
+				"buffer_size": 5430,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/tpaulhus/Dropbox/Atrion/Atrion Intranet/HTML/slickslider.html",
+			"settings":
+			{
+				"buffer_size": 2362,
 				"line_ending": "Windows"
 			}
 		}
@@ -344,6 +352,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/tpaulhus/Dropbox/Atrion/Atrion Intranet/HTML/atrion intranet.sublime-project",
+		"/C/wamp/www/campbad/wp-content/themes/typ-genesis/content-image.php",
+		"/C/wamp/www/campbad/wp-content/themes/campbaddd/template-parts/content.php",
+		"/C/wamp/www/campbad/wp-content/themes/campbad/content-image.php",
 		"/C/wamp/www/campbad/wp-content/themes/layerswp/index.php",
 		"/C/wamp/www/campbad/wp-content/themes/campbad/assets/sass/main.scss",
 		"/C/Windows/System32/drivers/etc/hosts",
@@ -467,11 +479,7 @@
 		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/loop_origphp.lens",
 		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/loop.php",
 		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/index.php",
-		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/sidebar.php",
-		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/archive.php",
-		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/index_original.php",
-		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/overbrook_s.sublime-project",
-		"/Applications/MAMP/htdocs/PainCAS/sass/main.scss"
+		"/Applications/MAMP/htdocs/Overbrook/wordpress/wp-content/themes/overbrook/sidebar.php"
 	],
 	"find":
 	{
@@ -479,7 +487,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 157.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"<open files>",
@@ -499,6 +507,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"twentyfourteen",
 			"min-width",
 			"min-width	",
 			"layers_child",
@@ -625,8 +634,7 @@
 			"formBox",
 			"h5",
 			"#333",
-			"form-box",
-			"painCAS "
+			"form-box"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -647,7 +655,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -655,15 +663,15 @@
 					"file": "functions.php",
 					"settings":
 					{
-						"buffer_size": 5167,
+						"buffer_size": 5430,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1700,
-								1700
+								151,
+								151
 							]
 						],
 						"settings":
@@ -672,7 +680,35 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1122.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/tpaulhus/Dropbox/Atrion/Atrion Intranet/HTML/slickslider.html",
+					"settings":
+					{
+						"buffer_size": 2362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
